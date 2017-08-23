@@ -1,0 +1,2 @@
+# JNet
+This is a new open source home automation project built from preexisting  protocols and security platforms. This system be able to interface with everything from z-wave to WiFi and even chat protocols such as IRC and AIM.  The system is designed to be Linux run (or raspberry pi) Basically and all in plugin system. All connectable devices will have wiki pages on how to modify (if necessary) and the app/program config process. This is a very long term project if you would like to contribute contact me at jstone@jnet-it.com.
